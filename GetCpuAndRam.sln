@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetCpuAndRam", "GetCpuAndRam\GetCpuAndRam.csproj", "{99629582-6161-4CCA-89A0-F1C364C11761}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{D28BF7E3-7B5D-4192-8CAE-042CD3D915C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99629582-6161-4CCA-89A0-F1C364C11761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99629582-6161-4CCA-89A0-F1C364C11761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99629582-6161-4CCA-89A0-F1C364C11761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99629582-6161-4CCA-89A0-F1C364C11761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D28BF7E3-7B5D-4192-8CAE-042CD3D915C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D28BF7E3-7B5D-4192-8CAE-042CD3D915C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D28BF7E3-7B5D-4192-8CAE-042CD3D915C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D28BF7E3-7B5D-4192-8CAE-042CD3D915C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72CFBFED-6804-4068-8048-9C51CFD4C1ED}
+	EndGlobalSection
+EndGlobal
